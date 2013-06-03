@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
 
 		// enable ActionBar app icon to behave as action to toggle nav drawer
 				getActionBar().setDisplayHomeAsUpEnabled(true);
+				 
 
 				mDrawer = (DrawerLayout) findViewById(R.id.drawer_layout);
 
@@ -110,7 +111,7 @@ public class MainActivity extends Activity {
 			res++;
 		}
 
-		mAdapter.addHeader(R.string.ns_menu_main_header2);
+		//mAdapter.addHeader(R.string.ns_menu_main_header2);
 
 		mDrawerList = (ListView) findViewById(R.id.drawer);
 		if (mDrawerList != null)
