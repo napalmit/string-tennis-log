@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">String Tennis Log</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ns_menu_main_header">Dati Utente</string>
+    
+    <string name="ns_menu_open">String Tennis Log</string>
+    <string name="ns_menu_close">String Tennis Log</string>
+    
+    <string name="ns_menu_snippet1">Lista Incordature</string>
+    <string name="ns_menu_snippet2">Lista Racchette</string>
+    <string name="ns_menu_snippet3">Lista Corde</string>
+
+</resources>
